@@ -201,6 +201,8 @@ Meanwhile it also support [other RAID types](https://github.com/ankek/awesome-zf
 - [Terminal UI for inspecting and restoring file history on ZFS snapshots](https://github.com/markusressel/zfs-file-history)
 - [ZFS administration tool for Webmin](https://github.com/jonmatifa/zfsmanager)
 - [WebZFS - Web interface for ZFS pools, datasets, snapshots and SMART disk monitoring](https://github.com/webzfs/webzfs)
+- [Universal Snapshot Explorer - Read-only web interface for browsing file history across ZFS snapshots](https://github.com/NicolasGoeddel/universal-snapshot-explorer)
+- [ZNAS - Web interface for ZFS storage, file sharing and virtualization on Debian and Ubuntu](https://github.com/macgaver/zfsnas-chezmoi)
 
 ### ZFS Monitoring
 
@@ -236,6 +238,7 @@ Meanwhile it also support [other RAID types](https://github.com/ankek/awesome-zf
 - [zfs-remote-mirror - Setting up a remote ZFS mirror](https://github.com/hughobrien/zfs-remote-mirror)
 - [zfs-replicate - Shell script to manage ZFS snapshot replication locally, or between hosts.](https://github.com/aaronhurt/zfs-replicate)
 - [zfs-snapshot-mgmt - Script for automating ZFS snapshot creation for FreeBSD](http://marcin.studio4plus.com/en/zfs-file-history/howto.html)
+- [zfs-tenant - Share quota-limited ZFS storage for encrypted backups over SSH without granting shell access](https://github.com/basnijholt/zfs-tenant)
 - [zfstools](https://github.com/bdrewery/zfstools)
 - [zfs-tool - Tool to help with various zfs tasks, e.g. cleanup snapshots](https://github.com/sandreas/zfs-tool)
 - [zfs-tools - ZFS backup tools](https://github.com/Rudd-O/zfs-tools)
