@@ -200,6 +200,7 @@ Meanwhile it also support [other RAID types](https://github.com/ankek/awesome-zf
 - :warning: [ZfDash ZFS Management GUI / WEBUI](https://github.com/ad4mts/zfdash)
 - [Terminal UI for inspecting and restoring file history on ZFS snapshots](https://github.com/markusressel/zfs-file-history)
 - [ZFS administration tool for Webmin](https://github.com/jonmatifa/zfsmanager)
+- [WebZFS - Web interface for ZFS pools, datasets, snapshots and SMART disk monitoring](https://github.com/webzfs/webzfs)
 
 ### ZFS Monitoring
 
