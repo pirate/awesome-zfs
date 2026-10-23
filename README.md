@@ -130,6 +130,7 @@ Meanwhile it also support [other RAID types](https://github.com/ankek/awesome-zf
 - [OpenZFS - the final word in file systems](https://jro.io/truenas/openzfs/)
 - [The ZFS Subreddit (r/zfs)](https://www.reddit.com/r/zfs/)
 - [Klara Systems - Choosing the Right ZFS Pool Layout](https://klarasystems.com/articles/choosing-the-right-zfs-pool-layout/)
+- [Uberblok - Interactive explanations of ZFS internals with diagrams and OpenZFS source excerpts](https://uberblok.storagebits.workers.dev/en/)
 
 ### 🔁 Snapshots, Backups and Replication
 
@@ -258,6 +259,7 @@ Meanwhile it also support [other RAID types](https://github.com/ankek/awesome-zf
 - [shavee - Program to automatically decrypt and mount ZFS datasets using Yubikey HMAC as 2FA or any File on USB/SFTP/HTTPS drive](https://github.com/ashuio/shavee)
 - [A simple script for showing progress bar for ZFS scrub operations](https://github.com/dw7cd/zfs_scrubstat)
 - [zpool-disk-waiter - A deterministic pre-boot timing barrier to gracefully prevent ZFS from importing DEGRADED pools due to slow JBOD spin-ups.](https://github.com/QiaoLei-88/zpool-disk-waiter/blob/main/ReadMe.en.md)
+- [zfsbox - Run ZFS in a lightweight VM on macOS, Linux and Docker without host ZFS kernel modules](https://github.com/pirate/zfsbox)
 
 ## ZFS Cheat Sheets
 
@@ -273,6 +275,7 @@ Meanwhile it also support [other RAID types](https://github.com/ankek/awesome-zf
 Linux kernel have no official ZFS support. This is workaround.
 
 - [ZFS Bootloader for root-on-ZFS systems](https://github.com/zbm-dev/zfsbootmenu)
+- [zfsify - Experimental in-place conversion of Ubuntu ext4 systems to root on ZFS with ZFSBootMenu](https://github.com/pirate/zfsify)
 - [Alpine installer with ZFS as root](https://github.com/psy0rz/alpinebox/blob/master/README.md)
 - [Arch Linux - ZFS‑first installer](https://github.com/okhsunrog/archinstall_zfs/blob/main/README.md)
 - [Arch Linux - Root on ZFS](https://openzfs.github.io/openzfs-docs/Getting%20Started/Arch%20Linux/Root%20on%20ZFS.html)
